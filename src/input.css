@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-pop: "Poppins", sans-serif; 
+  --color-bgbtn: #5E3BEE;
+  --color-paimary: #F9F9FC;
+  --drop-shadow-box: 0 35px 35px rgba(0, 0, 0, 0.20);
+  --drop-shadow-hover: 0 35px 35px rgba(0, 0, 255, 0.2);
+}
